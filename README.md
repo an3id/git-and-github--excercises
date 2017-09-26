@@ -1,3 +1,3 @@
 # git-and-github--excercises
-making changes
-more changes
+# making changes
+# more changes
