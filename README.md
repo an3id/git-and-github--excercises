@@ -1,2 +1,3 @@
 # git-and-github--excercises
-making changes
+# making changes
+conflict
